@@ -1,0 +1,36 @@
+.loader{
+    background-color: #ffffff;
+    position:fixed;
+    z-index:10;
+    top:0;
+    left:0;
+    display:flex;
+    width:100%;
+    height:100%;
+    justify-content: center;
+    align-items: center;
+}
+table {
+    background-color: #b5b5b5;
+    border: 2px solid black;
+}
+
+tr {
+    color: #000000;
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+    font-family: "Agency FB",sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 5px;
+    color: #1a237e;
+}
+td{
+    border: 2px solid black;
+    font-family: "Arial Black",sans-serif;
+    font-size: 10px;
+    padding: 10px;
+    color: #000000;
+}
